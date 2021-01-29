@@ -12,7 +12,7 @@ var getAll = function (selector, scope) {
 // setup typewriter effect in the terminal demo
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
-  var txt = `Hi, I'm Anel!
+  var txt = `Hi, I'm Anel
             
             Born and raised in Kazakhstan, I moved to the UK at the age of 17 to study at one of the top A-level colleges in the country.
             
