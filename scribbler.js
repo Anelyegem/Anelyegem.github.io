@@ -14,7 +14,7 @@ if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
   var txt = `Hi, I'm Anel!
             
-            Born and raised in Kazakhstan, I moved to the UK at the age of 17 to study at one of the top A-level collegues in the country.
+            Born and raised in Kazakhstan, I moved to the UK at the age of 17 to study at one of the top A-level colleges in the country.
             
             Currently I'm in my final year of an undergraduate degree in Mathematics with Finance and Management at King's College London. 
             
@@ -26,7 +26,7 @@ if (document.getElementsByClassName('demo').length > 0) {
             - Automation 🤖
             - Improving diversity in STEM 👩🏻‍🔬`;
              
-  var speed = 60;
+  var speed = 100;
 
   function typeItOut () {
     if (i < txt.length) {
