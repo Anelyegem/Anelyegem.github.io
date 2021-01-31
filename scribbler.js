@@ -14,19 +14,19 @@ if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
   var txt = `Hi, I'm Anel
             
-            Born and raised in Kazakhstan, I moved to the UK at the age of 17 to study at one of the top A-level colleges in the country.
-            
-            Currently I'm in my final year of an undergraduate degree in Mathematics with Finance and Management at King's College London. 
-            
-            At such a young age, I already have a significant work experience through internships with globally-recognised multinational corporations such as Deloitte, Bank of America, Philips and Barclays
+            Born and raised in Kazakhstan, I moved to the UK at the age of 17 to pursue my dreams 🌟
+                                   
+            I have studied at the top UK institutions such as King's College London and Cardiff Sixth Form College 👩‍🎓
+
+            I was intern at some of the biggest multinational corporations like Deloitte, Philips, Barclays and Bank of America 
 
             I am passionate about: 
 
-            - Technology 💻
-            - Automation 🤖
+            - Data Science 💻
+            - Automation & AI 🤖
             - Improving diversity in STEM 👩🏻‍🔬`;
              
-  var speed = 100;
+  var speed = 20;
 
   function typeItOut () {
     if (i < txt.length) {
@@ -148,3 +148,12 @@ window.addEventListener('load', function(){
   }
   icon.addEventListener('click', showNav);
 });
+
+
+
+
+
+
+//nice page js 
+
+
