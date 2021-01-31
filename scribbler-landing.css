@@ -19,6 +19,7 @@ nav {
 .hero__title {
   font-weight: 900;
   color: var(--primary-color);
+  font-family: 'Poiret One', cursive;
 }
 
 .hero__description {
@@ -56,6 +57,13 @@ nav {
 
 .feature__item .section__title {
   margin-bottom: 0;
+  
+  
+}
+
+.section__title {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 30px;
 }
 
 .feature__item p {
@@ -104,15 +112,21 @@ nav {
 }
 
 .keybinding__label {
-  background: var(--white-color);
+  background: #F0F8FF;
   border: 1px solid var(--light-gray-color);
   box-shadow: 0 1px 0 0 var(--medium-gray-color);
   border-radius: 3px;
   font-family: Courier;
   font-size: 0.7rem;
+  font-weight: bold ;
   color: var(--dark-gray-color);
   padding: 3px 3px 1px 3px;
   vertical-align: middle;
+}
+
+.keybinding__title {
+  color:#000080;
+  font-family: 'Quicksand', sans-serif;
 }
 
 /* callout section */
@@ -148,7 +162,23 @@ nav {
 
 .changelog__title {
   margin-bottom: 0;
+  
 }
+
+.changelog_text {
+  font-style: italic;
+  font-weight: bold;
+  color:  #000080;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+.changelog__title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
 
 .changelog__callout {
   margin: 3rem auto 2rem auto;

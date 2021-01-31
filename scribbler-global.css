@@ -335,10 +335,15 @@ table td:first-child {
 
 .u-section-1 {
   background-image: none;
+  padding:0;
+  margin:0;
 }
 
 .u-section-1 .u-sheet-1 {
   min-height: 908px;
+  min-width: 100%;
+  padding:0;
+  margin:0;
 }
 
 .u-section-1 .u-text-1 {
@@ -571,7 +576,7 @@ table td:first-child {
  * Copyright 2014-2020 Froala Labs
  */
 
- .fr-clearfix::after {
+.fr-clearfix::after {
   clear: both;
   display: block;
   content: "";
