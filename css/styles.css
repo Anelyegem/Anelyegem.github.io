@@ -2678,8 +2678,8 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #bd5d38;
-  border-color: #bd5d38;
+  color: #4169E1;
+  border-color: #4169E1;
 }
 .btn-outline-primary:hover {
   color: #fff;
@@ -3926,7 +3926,7 @@ input[type=button].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #bd5d38;
+  background-color: #4169E1;
 }
 
 .nav-fill > .nav-link,
@@ -10021,7 +10021,7 @@ p.lead {
   text-transform: uppercase;
 }
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: #4169E1;
 }
 
 @media (min-width: 992px) {
@@ -10079,7 +10079,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #4169E1;
 }
 
 .dev-icons {
